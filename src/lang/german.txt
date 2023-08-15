@@ -1470,7 +1470,7 @@ STR_CONFIG_SETTING_GRAPH_LINE_THICKNESS_HELPTEXT                :Strichdicke der
 
 STR_CONFIG_SETTING_SHOW_NEWGRF_NAME                             :NewGRF-Namen im Fahrzeugbaumenü zeigen: {STRING}
 STR_CONFIG_SETTING_SHOW_NEWGRF_NAME_HELPTEXT                    :Eine Textzeile mit dem Namen des NewGRF, von dem ein Fahrzeug stammt, hinzufügen.
-STR_CONFIG_SETTING_SHOW_CARGO_IN_LISTS                          :Die Frachten, die das Fahrzzeug tragen kann, in den Listenfenstern anzeigen {STRING}
+STR_CONFIG_SETTING_SHOW_CARGO_IN_LISTS                          :Die Frachten, die das Fahrzeug tragen kann, in den Listenfenstern anzeigen {STRING}
 STR_CONFIG_SETTING_SHOW_CARGO_IN_LISTS_HELPTEXT                 :Falls erlaubt, wird die transportierbare Ladung des Fahrzeugs über ihm in den Fahrzeuglisten erscheinen
 
 STR_CONFIG_SETTING_LANDSCAPE                                    :Landschaftstyp: {STRING}
